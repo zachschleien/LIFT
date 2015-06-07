@@ -418,6 +418,13 @@ h1.textdivider-wholefoods {
     padding-top: 40px;
 }
 
+h1.textdivider-ks{
+    font-weight: bold;
+    color: darkorchid;
+    padding-top: 40px;
+}
+
+
 .textdivider p {
 	color: white;
 	font-size: 25px;
@@ -447,6 +454,9 @@ h1.textdivider-wholefoods {
 	background-image: url('../img/wf2.jpg')
 }
 
+.divider7 {
+    background-image: url('../img/ks.png')
+}
 
 
 /* ==========================================================================
